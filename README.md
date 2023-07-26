@@ -1,5 +1,5 @@
 # MetaKnee
-Knee everything everywhere all at once
+A Slicer Extension, Knee everything everywhere all at once
 
 # Module List
 ## KneeCoords 
